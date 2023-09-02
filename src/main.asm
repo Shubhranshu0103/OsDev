@@ -1,7 +1,7 @@
 org 0x7C00
 bits 16
 
-%define ENDL 0x80 ;, 0x0A
+%define ENDL 0x80, 0x0A
 start:
     jmp main
 
